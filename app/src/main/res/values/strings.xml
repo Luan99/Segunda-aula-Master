@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">PrimeiraAula</string>
+    <string name="label_botao_da_sorte">Generate number</string>
+    <string name="desenvolvido_por">Developed by Luan</string>
+
+
+</resources>
